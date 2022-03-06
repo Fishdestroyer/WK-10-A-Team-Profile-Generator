@@ -57,6 +57,7 @@ NPM
 - jest
 - fs
 
+
 Run npm install from the command line after cloning repo.
 
 
@@ -76,6 +77,10 @@ google
 
 npm
 https://www.npmjs.com/
+
+Module content
+
+peer assistance when needed
 
 # Screen Shots
 
