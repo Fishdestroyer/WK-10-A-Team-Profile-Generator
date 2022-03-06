@@ -92,6 +92,8 @@ peer assistance when needed
 
 # Walk through videos
 
+https://drive.google.com/file/d/1rWem6cLQAFgaS9ToDb1HQ8zLYFtOFSq4/view
+
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
